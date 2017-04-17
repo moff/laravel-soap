@@ -11,7 +11,9 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "ext-soap": "*"
+        "ext-soap": "*",
+        "robrichards/wse-php": "^2.0",
+        "robrichards/xmlseclibs": "^2.0"
     },
     "autoload": {
         "psr-0": {
